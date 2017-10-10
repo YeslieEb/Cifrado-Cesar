@@ -1,4 +1,6 @@
 # PROGRAMA CIFRADO CESAR
+
+# PSEUDOCODIGO
 INICIO
 DECLARAR LA FUNCION 
 Para (var i=0; i<text.length ; i++), Comparar y luego incrementa
